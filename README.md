@@ -40,6 +40,8 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
 ###
