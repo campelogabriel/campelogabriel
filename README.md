@@ -46,10 +46,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/81c6e399d78ac685398601c6ff24c7e1/c72125daa0f978be-61/s1280x1920/0732254d13c20ab6bc6a3f6ef5c50c1c5fb085c5.gifv"  />
-</div>
-
 ###
 
 <div align="center">
